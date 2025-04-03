@@ -63,7 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img src="[https://static.wixstatic.com/media/3aff01_3993b4a51bd7444bb2ebc02e2f241792~mv2.png/v1/fill/w_153,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%201261157769.png" height="40" alt="monday.com logo"  />
+  <img src="https://static.wixstatic.com/media/3aff01_3993b4a51bd7444bb2ebc02e2f241792~mv2.png/v1/fill/w_153,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%201261157769.png" height="40" alt="monday.com logo"  />
 </div>
 
 ###
